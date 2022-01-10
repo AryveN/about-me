@@ -1,8 +1,6 @@
-### **About me**
-
 # Contacts:
-- Discord : Aryͫvͦeͬnͤ#7286
-- Instagram: _aryven_
+- Discord : `Aryͫvͦeͬnͤ#7286`
+- Instagram: `_aryven_`
 
 # Programming languages:
 - C
