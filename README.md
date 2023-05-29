@@ -1,6 +1,6 @@
 # Contacts:
-- Discord : `AryveN#7286`
-- Instagram: `_aryven_`
+- Discord : `arysek#1337`
+- Instagram: `ary.sek`
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aryven&show_icons=true&theme=dark&count_private=true&hide=prs,issues,contribs&hide_title=false)](https://github.com/anuraghazra/github-readme-stats) 
 
