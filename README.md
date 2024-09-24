@@ -12,6 +12,8 @@ I'm a junior developer with a passion for coding and problem-solving, skilled in
 Here are some of the projects I've been working on:
 
 - **[Calendary](https://github.com/AryveN/Calendary)**: A calendar and event management application built in **Swift**, aimed at simplifying event organization and scheduling.
+- **Discord Bots**: Developed several Discord bots using **Java** and **JavaScript** to enhance server interactions and provide various utilities.
+- **Websites for Various Occasions**: Created multiple web pages tailored for different events, showcasing skills in web design and development.
 
 ### 📚 Currently learning:
 - Studying **Software Engineering** at university
