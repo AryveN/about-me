@@ -26,6 +26,7 @@ Here are some of the projects I've been working on:
 - Learning new technologies and improving existing skills
 
 ### 💬 Get in touch:
-Feel free to connect with me if you want to collaborate or chat about programming, networking, or anything tech-related! You can reach me on [LinkedIn](https://www.linkedin.com/in/kryštof-hugo-malý-94b164217/) or through GitHub.
+Feel free to connect with me if you want to collaborate or chat about programming, networking, or anything tech-related! You can reach me on:
+- [LinkedIn](https://www.linkedin.com/in/kryštof-hugo-malý-94b164217/).
 - Discord : `arysek`
 - Instagram: `ary.sek`
