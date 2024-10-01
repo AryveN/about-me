@@ -13,6 +13,7 @@ Here are some of the projects I've been working on:
 
 - **[Calendary](https://github.com/AryveN/Calendary)**: A calendar and event management application built in **Swift**, aimed at simplifying event organization and scheduling.
 - **[AryhoBakaláři](https://github.com/AryveN/AryskovoBakalari)**: Created my own adaptation of the Bakaláři application as a school project, focusing on user experience and functionality.
+- **[MultiPurposeBot](https://github.com/AryveN/MultiPurposeBot)**: Created custom bot for my friend. It consists of ticket system, join & leave messages, adding upon a server and reaction role system. 
 - **Discord Bots**: Developed several Discord bots using **Java** and **JavaScript** to enhance server interactions and provide various utilities.
 - **Websites for Various Occasions**: Created multiple web pages tailored for different events, showcasing skills in web design and development.
 
